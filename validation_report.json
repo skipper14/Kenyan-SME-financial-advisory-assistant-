@@ -1,0 +1,29 @@
+{
+  "records": 100,
+  "errors": [],
+  "error_count": 0,
+  "split_counts": {
+    "train": 80,
+    "validation": 10,
+    "test": 10
+  },
+  "token_estimate": {
+    "method": "regex word/punctuation estimate over user and assistant content",
+    "minimum": 185,
+    "maximum": 310,
+    "mean": 233.45,
+    "acceptable_range": [
+      150,
+      350
+    ],
+    "within_range": true
+  },
+  "source_count": 9,
+  "source_urls_are_https": true,
+  "authoritative_source_metadata_complete": true,
+  "safety_gate": {
+    "disclaimer_required": true,
+    "forbidden_patterns_checked": 5,
+    "errors": []
+  }
+}

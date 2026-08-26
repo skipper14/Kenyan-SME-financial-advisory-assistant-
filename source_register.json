@@ -1,0 +1,56 @@
+{
+  "BRS": {
+    "url": "https://brsv2.ecitizen.go.ke/",
+    "authority": "Kenya Business Registration Service",
+    "type": "government service",
+    "manual_verification_required": true
+  },
+  "KRA_PIN": {
+    "url": "https://www.kra.go.ke/individual/individual-pin-registration",
+    "authority": "Kenya Revenue Authority",
+    "type": "government guidance",
+    "manual_verification_required": true
+  },
+  "KRA_TAX": {
+    "url": "https://www.kra.go.ke/",
+    "authority": "Kenya Revenue Authority",
+    "type": "government guidance",
+    "manual_verification_required": true
+  },
+  "KRA_TOT": {
+    "url": "https://www.kra.go.ke/taxes/turnover-tax",
+    "authority": "Kenya Revenue Authority",
+    "type": "government guidance",
+    "manual_verification_required": true
+  },
+  "KRA_ETIMS": {
+    "url": "https://www.kra.go.ke/online-services/etims",
+    "authority": "Kenya Revenue Authority",
+    "type": "government service",
+    "manual_verification_required": true
+  },
+  "CBK": {
+    "url": "https://www.centralbank.go.ke/",
+    "authority": "Central Bank of Kenya",
+    "type": "regulator guidance",
+    "manual_verification_required": true
+  },
+  "ODPC": {
+    "url": "https://www.odpc.go.ke/",
+    "authority": "Office of the Data Protection Commissioner",
+    "type": "regulator guidance",
+    "manual_verification_required": true
+  },
+  "DARAJA": {
+    "url": "https://developer.safaricom.co.ke/",
+    "authority": "Safaricom Daraja",
+    "type": "verified provider documentation",
+    "manual_verification_required": true
+  },
+  "CAK": {
+    "url": "https://cak.go.ke/",
+    "authority": "Competition Authority of Kenya",
+    "type": "regulator guidance",
+    "manual_verification_required": true
+  }
+}

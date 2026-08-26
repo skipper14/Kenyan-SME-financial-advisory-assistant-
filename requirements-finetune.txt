@@ -1,9 +1,1 @@
-# Install in Kaggle or another CUDA-enabled environment.
-torch>=2.2.0
-transformers>=4.45.0
-datasets>=2.20.0
-peft>=0.12.0
-accelerate>=0.34.0
-bitsandbytes>=0.43.0
-matplotlib>=3.8.0
-sentencepiece>=0.2.0
+

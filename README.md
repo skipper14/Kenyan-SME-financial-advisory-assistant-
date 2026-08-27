@@ -1,8 +1,7 @@
-# Kenyan SME Financial Advisory Corpus
-
+Kenyan SME Financial Advisory Corpus
 This directory contains 100 source-grounded LLaMA chat-format instruction-tuning examples for a microfinance institution serving Kenyan SMEs.
 
-## Files
+Files
 
 - `sme_financial_advisory.jsonl`: master corpus, 100 records
 - `sme_financial_advisory_train.jsonl`: 80 records
@@ -26,8 +25,7 @@ python build_dataset.py
 
 The token report uses a portable regex estimate over user and assistant content because this repository does not pin a tokenizer. Re-run validation with the exact tokenizer for the selected LLaMA base model before training.
 
-## QLoRA Run
-
+QLoRA Run
 Run this in Kaggle or another CUDA-enabled environment. The base model must be permitted for your use and available through Hugging Face credentials or the platform's model storage.
 
 ```bash

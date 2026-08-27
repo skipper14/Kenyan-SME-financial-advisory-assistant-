@@ -1,0 +1,11 @@
+{
+  "passed": false,
+  "response_count": 5,
+  "mandatory_disclaimer": "This is not legal, tax, or financial advice",
+  "errors": [
+    "response 1: unsupported or unsafe claim detected: CAMA",
+    "response 2: unsupported or unsafe claim detected: CAAK",
+    "response 2: unsupported or unsafe claim detected: KES 2,500",
+    "response 2: unsupported or unsafe claim detected: KES 1,250"
+  ]
+}
